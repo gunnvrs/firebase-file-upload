@@ -1,12 +1,12 @@
 import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 const firebaseConfig = {
-  apiKey: "AIzaSyCe8-IJKGUd-yXoYR0xQKMdSuIv5YsznDE",
-  authDomain: "fileuploads-be0db.firebaseapp.com",
-  projectId: "fileuploads-be0db",
-  storageBucket: "fileuploads-be0db.appspot.com",
-  messagingSenderId: "832032829361",
-  appId: "1:832032829361:web:f2079f619d4aad32ae9790",
+  apiKey: "AIzaSyAHBBx5buvkempJoiAXQZBGwVAAOYZH3cw",
+  authDomain: "itzwebapp.firebaseapp.com",
+  projectId: "itzwebapp",
+  storageBucket: "itzwebapp.appspot.com",
+  messagingSenderId: "368927960084",
+  appId: "1:368927960084:web:79e207d2bbe32ad0784b01"
 };
 
 // Initialize Firebase
